@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalogueUIUX</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="language">Language</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="poster_in_list">Poster in list</string>
+    <string name="detail_poster">Detail Poster</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
